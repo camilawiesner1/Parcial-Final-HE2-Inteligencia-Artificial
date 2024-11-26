@@ -9,6 +9,20 @@ Bienvenidos! Quisimos crear una aplicación que ayude a predecir cómo afecta la
 - [Technologies](#technologies)
 - [License](#license)
 ## Descripción
+import numpy as np
+import pandas as pd
+import matplotlib
+import seaborn as sns
+import matplotlib.pyplot as plt
+%matplotlib inline
+from wordcloud import WordCloud, STOPWORDS
+from google.colab import files
+
+# Subir archivo
+uploaded = files.upload()
+
+# Leer el archivo Excel (asegurándote de usar el nombre correcto del archivo)
+df = pd.read_excel("X.xlsx", engine="openpyxl")
 ## Features 
 ## Setup
 ## Usage 
