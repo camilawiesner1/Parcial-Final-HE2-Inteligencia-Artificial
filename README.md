@@ -9,6 +9,9 @@ Bienvenidos! Quisimos crear una aplicación que ayude a predecir cómo afecta la
 - [Technologies](#technologies)
 - [License](#license)
 ## Descripción
+Este modelo busca ayudar a clasificar los tweets de trump en tres diferentes categorías: Anti-migratorio, Pro-empresa y proteccionista. 
+## Setup
+#### Importar librerias
 import numpy as np
 import pandas as pd
 import matplotlib
@@ -17,14 +20,11 @@ import matplotlib.pyplot as plt
 %matplotlib inline
 from wordcloud import WordCloud, STOPWORDS
 from google.colab import files
-
-# Subir archivo
+#### Subir archivo
 uploaded = files.upload()
-
-# Leer el archivo Excel (asegurándote de usar el nombre correcto del archivo)
+#### Leer el archivo Excel
 df = pd.read_excel("X.xlsx", engine="openpyxl")
-## Features 
-## Setup
+
 ## Usage 
 ## Technologies
 ## license
