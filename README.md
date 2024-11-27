@@ -49,8 +49,8 @@ pip install -q -U google-generativeai
 
 🐦
 ## Tecnología:
-Python 3 
-Gradio
+-Python 3 
+-Gradio
 
 # 
 ### Creadores: 
