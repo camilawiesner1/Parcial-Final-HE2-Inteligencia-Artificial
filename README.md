@@ -1,10 +1,10 @@
-#### :e-mail:
+#### 🐦
 # Parcial Final HE2 Inteligencia-Artificial: Descifrando a Trump
 
 Bienvenidos! Quisimos crear una aplicación que ayude a categorizar los tweets de el presidente de los Estados Unidos. Los quisimos categorizar con tres diferentes etiquetas: 1.Proteccionista 2. Anti-migratorio 3. Pro-empresa
 #### Link de acceso
 Para visitar nuestro categorizador, hacer click aquí:  
-:fa-twitter:
+🐦
 #### Demo del funcionamiento:
 # 
  ### Caracteristicas de la app:
@@ -16,7 +16,7 @@ Para visitar nuestro categorizador, hacer click aquí:
 - Primero, se debe correr el primer codigo en Colab, el cual por medio de la inteligencia artificial, clasifica la base original de tweets de trump que fue sacada de Hugging Face. Este archivo se denomina "" y está en la carpeta del proyecto.
 - Después se debe correr el codigo que contiene el FineTunning y el Gradio. Incertando el archivo de excel titulado "X.xlsx" que tambíen está en la carpeta del proyecto (la salida del anterior codigo). Para correr este codigo, remitase al archivo llamado ""
 
-:fa-twitter:
+🐦
 ## Instalaciones
 - Para el primer codigo / colab :
 ##### Instalar los paquetes necesarios para el entrenamiento del modelo
@@ -31,7 +31,6 @@ Para visitar nuestro categorizador, hacer click aquí:
 ##### Instalar Gemini
 pip install -q -U google-generativeai
 # 
-
 - Para el segundo codigo /Colab
 ##### Instalar paquetes transformers y datasets
 !pip install transformers datasets  
