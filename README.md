@@ -1,4 +1,4 @@
-:fa-twitter:
+:e-mail:
 # Parcial Final HE2 Inteligencia-Artificial: Descifrando a Trump
 
 Bienvenidos! Quisimos crear una aplicación que ayude a categorizar los tweets de el presidente de los Estados Unidos. Los quisimos categorizar con tres diferentes etiquetas: 1.Proteccionista 2. Anti-migratorio 3. Pro-empresa
