@@ -48,10 +48,9 @@ pip install -q -U google-generativeai
 !pip install textaugment nlpaug
 
 🐦
-## 
-
-🐦
-## Video de muestra 
+## Tecnología:
+Python 3 
+Gradio
 
 # 
 ### Creadores: 
