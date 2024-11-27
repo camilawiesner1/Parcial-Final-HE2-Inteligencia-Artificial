@@ -5,9 +5,9 @@ Bienvenidos! Quisimos crear una aplicación que ayude a categorizar los tweets d
 #### Link de acceso
 Para visitar nuestro categorizador, hacer click aquí:  https://698fb45d7248d240b8.gradio.live/
 🐦
-#### Demo del funcionamiento:
-(/Parcial-Final-HE2-Inteligencia-Artificial
-/Copy of Untitled3.ipynb - Colab - Google Chrome 2024-11-27 07-58-57.mp4)
+#### Demo del funcionamiento
+[video](https://youtu.be/e439vPD0IXY "video")
+
  ### Caracteristicas de la app:
 - Categoriza cualquier tweet de trump en segundos!
 - Está entrenado con tweets antiguos de Trump, lo que le agrega veracidad.
